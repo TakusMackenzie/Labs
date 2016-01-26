@@ -14,6 +14,6 @@ public class Labs
 			
 		}
 		
-		System.out.println("Paris stepped " + steps + " many times to get to Helen.");
+		System.out.println("Paris stepped " + steps + " times to get to Helen.");
 	}
 }
